@@ -95,7 +95,12 @@ body {
     color: hsl(215, 51%, 70%);
     font-weight: 300;
 }
-
+.card-footer .icon{
+    width: 30px;
+    border: 2px solid hsl(0, 0%, 100%);
+    border-radius: 3em;
+    margin-right: 7px;
+}
 .card .card-footer a {
     color: hsl(0, 0%, 100%);
     text-decoration: none;
